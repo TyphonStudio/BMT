@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f85e25e6742ccf3478c84412605c1993, type: 3}
+  m_Name: AllTerrains
+  m_EditorClassIdentifier: 
+  all:
+  - {fileID: 11400000, guid: 3a4c9ac1674017544af6a7260427255a, type: 2}
+  - {fileID: 11400000, guid: 5bafa676c64d44b4a8f8825ae7546472, type: 2}
+  - {fileID: 11400000, guid: fb100a33227f6c046839dae9b6fcf9e6, type: 2}
+  - {fileID: 11400000, guid: 839755e7241758f47855ffb7fb0bdd70, type: 2}
+  - {fileID: 11400000, guid: 748c2bd851a74a140b00104b4c7d1eb0, type: 2}
